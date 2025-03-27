@@ -10,9 +10,9 @@ Welcome to the New York City Project 2 BI repository! This project aims to provi
 - [Project Structure](#project-structure)
 - [Data Sources](#data-sources)
 - [Installation](#installation)
-- [Usage](#usage)
+
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Structure
 
@@ -71,19 +71,6 @@ To set up the project locally, follow these steps:
    pip install -r requirements.txt
    ```
 
-## Usage
-
-To run the analysis scripts or Jupyter notebooks, follow these steps:
-
-1. Ensure the virtual environment is activated.
-2. Run the desired Python script:
-   ```bash
-   python scripts/example_script.py
-   ```
-3. Alternatively, launch Jupyter Notebook to explore the notebooks:
-   ```bash
-   jupyter notebook
-   ```
 
 ## Contributing
 
